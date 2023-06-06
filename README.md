@@ -1,13 +1,3 @@
-<style>
-  body {
-    background-color: #f5f6f8;
-  }
-</style>
-
-<h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
-<h3 align="center">A passionate Ethical Hacker from Pakistan</h3>
-<!-- Rest of the code... -->
-
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate Ethical Hacker from Pakistan</h3>
  💫 About Me:
